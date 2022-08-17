@@ -1,0 +1,4 @@
+'num_eights-correct', (0, 66)
+'missing_digits-correct', (512, 66)
+'pingpong-correct', (1024, 66)
+'make_anonymous_factorial-correct', (1536, 66)
